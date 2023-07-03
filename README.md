@@ -1,1 +1,1 @@
-# sbt_demo_app
+Lets scala school peeps play with sbt
